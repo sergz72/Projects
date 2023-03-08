@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Pi Pico")(type "Legacy")(uri "${KIPRJMOD}/MCU_RaspberryPi_and_Boards.lib")(options "")(descr ""))
+  (lib (name "max7219_module")(type "KiCad")(uri "${KIPRJMOD}/max7219_module.kicad_sym")(options "")(descr ""))
+)
